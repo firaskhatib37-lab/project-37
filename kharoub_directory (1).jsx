@@ -391,3 +391,7 @@ function R({icon,label,val}){
     </div>
   );
 }
+< npm install next react react-dom
+git add .
+< git commit -m "add next dependency"
+git push
